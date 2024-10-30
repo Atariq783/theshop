@@ -1,0 +1,26 @@
+{
+    "1": {
+        "UserID": "123",
+        "ServiceType": "Photography",
+        "BookingDate": "2024-09-15",
+        "BookingStatus": "Confirmed"
+    },
+    "2": {
+        "UserID": "124",
+        "ServiceType": "Podcast",
+        "BookingDate": "2024-09-18",
+        "BookingStatus": "Cancelled"
+    },
+    "3": {
+        "UserID": "test123",
+        "ServiceType": "Rental",
+        "BookingDate": "2024-09-26",
+        "BookingStatus": "Cancelled"
+    },
+    "4": {
+        "UserID": "Testing",
+        "ServiceType": "Testing",
+        "BookingDate": "2024-09-29",
+        "BookingStatus": "Cancelled"
+    }
+}

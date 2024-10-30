@@ -1,0 +1,38 @@
+{
+    "1": {
+        "UserName": "Admin1",
+        "Email": "admin1@theshop.com",
+        "Password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+        "Role": "Admin"
+    },
+    "2": {
+        "UserName": "Test",
+        "Email": "test123@test.com",
+        "Password": "96cae35ce8a9b0244178bf28e4966c2ce1b8385723a96a6b838858cdd6ca0a1e",
+        "Role": "User"
+    },
+    "3": {
+        "UserName": "test_test",
+        "Email": "test@test.com",
+        "Password": "96cae35ce8a9b0244178bf28e4966c2ce1b8385723a96a6b838858cdd6ca0a1e",
+        "Role": "Admin"
+    },
+    "4": {
+        "UserName": "TEST2",
+        "Email": "test2@test.com",
+        "Password": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
+        "Role": "User"
+    },
+    "5": {
+        "UserName": "test",
+        "Email": "test@test.com",
+        "Password": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
+        "Role": "Admin"
+    },
+    "6": {
+        "UserName": "Testing1",
+        "Email": "Testing1@test.com",
+        "Password": "96cae35ce8a9b0244178bf28e4966c2ce1b8385723a96a6b838858cdd6ca0a1e",
+        "Role": "Admin"
+    }
+}
